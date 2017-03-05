@@ -1,0 +1,26 @@
+{
+  "name": "dot-wars",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava app/tests/main.js --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brab0/dot-wars.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brab0/dot-wars/issues"
+  },
+  "homepage": "https://github.com/brab0/dot-wars#readme",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "uuid": "^3.0.1"
+  }
+}
